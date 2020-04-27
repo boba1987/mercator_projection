@@ -7,7 +7,7 @@ Usage:
 ```
 /**
  * Generates grid overlay on google map instance and sets the viewport on provided lat and lng
- * @param {object} a
+ * @param {object} googleInstance - google map instance
  * @param {number} lat
  * @param {number} lng
  * @returns {object}
@@ -19,7 +19,7 @@ function projection(googleInstance, lat, lng) {...
 ```
 /**
  * Returns object with coordinates of clicked/selected grid tile
- * @param {object} googleInstance
+ * @param {object} googleInstance - google map instance
  * @param {number} mapZoom
  * @param {object} coords
  * @returns {object}
