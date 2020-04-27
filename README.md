@@ -1,6 +1,6 @@
-## mercator_projection
+# Mercator projection
 
-#Javascript implementation of https://en.wikipedia.org/wiki/Mercator_projection
+## Javascript implementation of https://en.wikipedia.org/wiki/Mercator_projection
 
 Usage:
 
